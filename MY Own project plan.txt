@@ -1,0 +1,8 @@
+Multi staged adventure game
+Visual Studio
+Main car
+Puzzle cars
+Need Car Images
+The time deacreases after each level
+There should be 5 levels as a base
+The main controls are going to be with arrow keys
